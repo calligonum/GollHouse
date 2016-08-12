@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/java/!svn/ver/1063/GollHouse/src/cn/goll/service
+END
+IHousesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/java/!svn/ver/1173/GollHouse/src/cn/goll/service/IHousesService.java
+END
+IPersonalsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/java/!svn/ver/975/GollHouse/src/cn/goll/service/IPersonalsService.java
+END
+ISystemsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/java/!svn/ver/31/GollHouse/src/cn/goll/service/ISystemsService.java
+END
+IBrokersService.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/java/!svn/ver/1042/GollHouse/src/cn/goll/service/IBrokersService.java
+END
+IHouse_TypesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/java/!svn/ver/607/GollHouse/src/cn/goll/service/IHouse_TypesService.java
+END
+IHouse_Equip_TypesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/java/!svn/ver/608/GollHouse/src/cn/goll/service/IHouse_Equip_TypesService.java
+END
+IPay_TypesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/java/!svn/ver/573/GollHouse/src/cn/goll/service/IPay_TypesService.java
+END
+ISmall_Area_ImgsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/212/GollHouse/src/cn/goll/service/ISmall_Area_ImgsService.java
+END
+IPowersService.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/java/!svn/ver/549/GollHouse/src/cn/goll/service/IPowersService.java
+END
+IOut_RentsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/java/!svn/ver/1054/GollHouse/src/cn/goll/service/IOut_RentsService.java
+END
+ISmall_AreasService.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/java/!svn/ver/580/GollHouse/src/cn/goll/service/ISmall_AreasService.java
+END
+IHistorysService.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/java/!svn/ver/733/GollHouse/src/cn/goll/service/IHistorysService.java
+END
+IHouse_YearsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/java/!svn/ver/606/GollHouse/src/cn/goll/service/IHouse_YearsService.java
+END
+IMenusService.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/java/!svn/ver/408/GollHouse/src/cn/goll/service/IMenusService.java
+END
+ICompanysService.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/java/!svn/ver/578/GollHouse/src/cn/goll/service/ICompanysService.java
+END
+IAreasService.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/java/!svn/ver/579/GollHouse/src/cn/goll/service/IAreasService.java
+END
+IRent_TypesService.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/java/!svn/ver/613/GollHouse/src/cn/goll/service/IRent_TypesService.java
+END
+IManagersService.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/java/!svn/ver/932/GollHouse/src/cn/goll/service/IManagersService.java
+END
+IRent_MoneysService.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/java/!svn/ver/605/GollHouse/src/cn/goll/service/IRent_MoneysService.java
+END
+IHouse_ImgsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/java/!svn/ver/932/GollHouse/src/cn/goll/service/IHouse_ImgsService.java
+END
+ISeek_RentsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/java/!svn/ver/877/GollHouse/src/cn/goll/service/ISeek_RentsService.java
+END

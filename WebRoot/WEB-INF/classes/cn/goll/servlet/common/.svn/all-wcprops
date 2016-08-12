@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/java/!svn/ver/936/GollHouse/src/cn/goll/servlet/common
+END
+SendEmailServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/java/!svn/ver/936/GollHouse/src/cn/goll/servlet/common/SendEmailServlet.java
+END
+HtmlServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/java/!svn/ver/650/GollHouse/src/cn/goll/servlet/common/HtmlServlet.java
+END
+uploadServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/java/!svn/ver/1199/GollHouse/src/cn/goll/servlet/common/uploadServlet.java
+END
+SendMsg_webchinese.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/java/!svn/ver/1126/GollHouse/src/cn/goll/servlet/common/SendMsg_webchinese.java
+END
+downloadServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/java/!svn/ver/554/GollHouse/src/cn/goll/servlet/common/downloadServlet.java
+END

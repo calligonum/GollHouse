@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/java/!svn/ver/1191/GollHouse/src/cn/goll/dao
+END
+IRent_MoneysDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/java/!svn/ver/591/GollHouse/src/cn/goll/dao/IRent_MoneysDao.java
+END
+IHouse_ImgsDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/java/!svn/ver/926/GollHouse/src/cn/goll/dao/IHouse_ImgsDao.java
+END
+ISeek_RentsDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/java/!svn/ver/875/GollHouse/src/cn/goll/dao/ISeek_RentsDao.java
+END
+IPersonalsDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/java/!svn/ver/972/GollHouse/src/cn/goll/dao/IPersonalsDao.java
+END
+IHousesDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/java/!svn/ver/1172/GollHouse/src/cn/goll/dao/IHousesDao.java
+END
+IHouse_TypesDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/java/!svn/ver/585/GollHouse/src/cn/goll/dao/IHouse_TypesDao.java
+END
+IBrokersDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/java/!svn/ver/1040/GollHouse/src/cn/goll/dao/IBrokersDao.java
+END
+ISystemsDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/java/!svn/ver/7/GollHouse/src/cn/goll/dao/ISystemsDao.java
+END
+IHouse_Equip_TypesDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/java/!svn/ver/592/GollHouse/src/cn/goll/dao/IHouse_Equip_TypesDao.java
+END
+IPay_TypesDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/java/!svn/ver/570/GollHouse/src/cn/goll/dao/IPay_TypesDao.java
+END
+IPowersDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/java/!svn/ver/547/GollHouse/src/cn/goll/dao/IPowersDao.java
+END
+ISmall_Area_ImgsDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/java/!svn/ver/171/GollHouse/src/cn/goll/dao/ISmall_Area_ImgsDao.java
+END
+IOut_RentsDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/java/!svn/ver/1051/GollHouse/src/cn/goll/dao/IOut_RentsDao.java
+END
+ISmall_AreasDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/java/!svn/ver/586/GollHouse/src/cn/goll/dao/ISmall_AreasDao.java
+END
+IHistorysDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/java/!svn/ver/731/GollHouse/src/cn/goll/dao/IHistorysDao.java
+END
+IHouse_YearsDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/java/!svn/ver/581/GollHouse/src/cn/goll/dao/IHouse_YearsDao.java
+END
+IMenusDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/java/!svn/ver/360/GollHouse/src/cn/goll/dao/IMenusDao.java
+END
+ICompanysDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/java/!svn/ver/587/GollHouse/src/cn/goll/dao/ICompanysDao.java
+END
+IAreasDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/java/!svn/ver/487/GollHouse/src/cn/goll/dao/IAreasDao.java
+END
+IRent_TypesDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/java/!svn/ver/589/GollHouse/src/cn/goll/dao/IRent_TypesDao.java
+END
+IManagersDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/java/!svn/ver/926/GollHouse/src/cn/goll/dao/IManagersDao.java
+END
