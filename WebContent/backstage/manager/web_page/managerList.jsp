@@ -41,10 +41,9 @@
 		window.location.href="Managers?method=check&id="+id;
 	}
 	$(document).ready(function(){
-		if(${param.flag=="0"})alert("操作失败");
-		if(${param.flag=="1"})alert("操作成功");
-	
-	})
+		if("${param.flag=='0'}"){alert("操作失败");}
+		if("${param.flag=='1'}"){alert("操作成功");}
+	});
 </script>
 </head>
 
